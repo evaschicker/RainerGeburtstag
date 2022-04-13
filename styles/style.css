@@ -6,9 +6,9 @@
 
 body {
 
-/* background-color: rgb(211, 248, 177); */
+background-color: rgb(211, 248, 177);
 
-background-image: linear-gradient( 0deg, #69FF97 10%, #00E4FF 100%);
+/* background-image: linear-gradient( 0deg, #69FF97 10%, #00E4FF 100%); */
 
       height: 100vh;
 
